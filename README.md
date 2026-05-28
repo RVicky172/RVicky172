@@ -23,7 +23,6 @@ I'm a Full-Stack Engineer with nearly **9 years of experience** crafting high-pe
 
 - 🏗️ Architected a **cloud-native Integration Studio** — modernizing a legacy desktop IDE into a browser-based dev environment (VS Code / Theia) used by hundreds of engineers daily
 - 🤖 Pioneered **LLM integration** into developer tooling for intelligent code suggestions and automated workflow generation
-- 🌍 Contributed to **DHIS2**, an open-source health platform deployed in **70+ countries**, processing millions of health records
 - 🏛️ Led front-end for a **government website serving millions of citizens**, hitting top-tier Lighthouse performance scores
 - 👨‍💼 Managed a **cross-functional team of 10 engineers** delivering an enterprise cloud storage product end-to-end
 
